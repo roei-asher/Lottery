@@ -6,7 +6,7 @@ I decided to participate in the [Israeli Lottery](https://www.pais.co.il/lotto/)
 
 I decided to purchase 12 tickets (degeneracy budget only allowed for this), and try my luck. And by try my luck, I mean I performed extensive data analysis in order to come up with my predicted "best" sequences. **Update: Out of 6 regular numbers I got a sequence with 4 correct numbers! The chance of that happening is: $$P(\text{4/6 correct and wrong "strong"}) =
 \frac{\binom{6}{4}\binom{31}{2}}{\binom{37}{6}}
-\times \frac{6}{7}\approx 0.2572\% \text{ !}$$**
+\times \frac{6}{7}\approx 0.2572 \\%\text{ !}$$**
 
 
 This project is a comprehensive lottery data analysis and prediction toolkit for **Israeli Lottery**, **Powerball**, and **Mega Millions** (upon request from friends and family to support these games as well). This project uses historical data, statistical analysis, and pattern recognition to generate optimized lottery number predictions.
