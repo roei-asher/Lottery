@@ -4,7 +4,7 @@ The lottery is a highly-addictive game that is built on the idea that a person c
 
 I decided to participate in the [Israeli Lottery](https://www.pais.co.il/lotto/), the rules are simple: pick 6 numbers from 1-37 and pick a "strong" number from 1-7. Easy enough right?
 
-I decided to purchase 12 tickets (degeneracy budget only allowed for this), and try my luck. And by try my luck, I mean I performed extensive data analysis in order to come up with my predicted "best" sequences. **Update: Out of 6 regular numbers I got a sequence with 4 correct numbers! The chance of that happening is: $$P(\text{4/6 correct \& wrong "strong"}) =
+I decided to purchase 12 tickets (degeneracy budget only allowed for this), and try my luck. And by try my luck, I mean I performed extensive data analysis in order to come up with my predicted "best" sequences. **Update: Out of 6 regular numbers I got a sequence with 4 correct numbers! The chance of that happening is: $$P(\text{4/6 correct and wrong "strong"}) =
 \frac{\binom{6}{4}\binom{31}{2}}{\binom{37}{6}}
 \times \frac{6}{7}\approx 0.2572\% \text{ !}$$**
 
